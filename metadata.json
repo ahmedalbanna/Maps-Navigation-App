@@ -1,0 +1,6 @@
+{
+  "name": "الخرائط والملاحة",
+  "description": "تطبيق خرائط وملاحة تفاعلي متكامل مع أنظمة محاكاة تتبع الموقع والبحث، ورسم المسارات المتقدم وحفظ المفضلة مع دعم كامل للاتجاهات من اليمين لليسار (RTL).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
